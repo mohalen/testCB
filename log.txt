@@ -1,0 +1,182 @@
+
+<13>Oct 11 17:16:37 [eb-cfn-init]:  24950K .......... .......... .......... .......... .......... 94% 36.6M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25000K .......... .......... .......... .......... .......... 94% 60.4M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25050K .......... .......... .......... .......... .......... 95% 57.8M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25100K .......... .......... .......... .......... .......... 95% 53.8M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25150K .......... .......... .......... .......... .......... 95% 58.9M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25200K .......... .......... .......... .......... .......... 95% 46.0M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25250K .......... .......... .......... .......... .......... 95% 76.5M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25300K .......... .......... .......... .......... .......... 95% 72.0M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25350K .......... .......... .......... .......... .......... 96% 86.0M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25400K .......... .......... .......... .......... .......... 96% 86.0M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25450K .......... .......... .......... .......... .......... 96% 82.5M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25500K .......... .......... .......... .......... .......... 96% 74.5M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25550K .....[   18.830246] serial8250: too much work for irq4
+..... .......... .......... .......... .......... 96% 85.3M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25600K .......... .......... .......... .......... .......... 97% 15.8M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25650K .......... .......... .......... .......... .......... 97% 82.8M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25700K .......... .......... .......... .......... .......... 97% 73.4M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25750K .......... .......... .......... .......... .......... 97% 81.4M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25800K .......... .......... .......... .......... .......... 97% 85.4M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25850K .......... .......... .......... .......... .......... 98% 85.2M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25900K .......... .......... .......... .......... .......... 98% 72.7M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  25950K .......... .......... .......... .......... .......... 98% 83.7M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26000K .......... .......... .......... .......... .......... 98% 84.1M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26050K .......... .......... .......... .......... .......... 98% 79.8M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26100K .......... .......... .......... .......... .......... 98% 71.6M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26150K .......... .......... .......... .......... .......... 99% 84.3M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26200K .......... .......... .......... .......... .......... 99% 80.8M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26250K .......... .......... .......... .......... .......... 99% 82.7M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26300K .......... .......... .......... .......... .......... 99% 74.7M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26350K .......... .......... .......... .......... .......... 99% 83.0M 0s
+<13>Oct 11 17:16:37 [eb-cfn-init]:  26400K .......... ......                                     100% 76.9M=1.2s
+<13>Oct 11 17:16:37 [eb-cfn-init]: 
+<13>Oct 11 17:16:37 [eb-cfn-init]: 2023-10-11 17:16:37 (22.3 MB/s) - ���/tmp/platform-engine.zip��� saved [27050900/27050900]
+<13>Oct 11 17:16:37 [eb-cfn-init]: 
+<13>Oct 11 17:16:37 [eb-cfn-init]: Archive:  /tmp/platform-engine.zip
+<13>Oct 11 17:16:37 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/bin/platform-engine  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/bin/publishlogs  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/bin/get-config  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/bin/ebdockerstart  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/logtasks/cron/publishlogs  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/systemd.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/sqsd/default.yaml.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/sqsd/sqsdversion.json  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/httpd/httpd.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/httpd/staticfilesmapping.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/httpd/applicationport.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/httpd/gzip.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/eb-docker-log-start  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/healthd/logcleanup-cron.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/config/private/healthd/healthddependency  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/healthd/healthd_nginx.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/healthd/healthd_httpd.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/healthd/config.yaml.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/healthd/healthd_logformat.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/aws-eb-command-handler.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/beanstalk-magic  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/docker-log.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/docker.logrotate.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/cfn-hup-wrapper  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/eb-banner  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/guidlocking/repo.py  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/ruby_common_env  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/config/private/dockerfile.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/systemd-append.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/eb-docker-stop  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/rsyslog.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/docker-rsyslog.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/config/private/restartcfn.sh  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/nginx/nginx.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/nginx/nginx.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/nginx/staticfilesmapping.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/nginx/applicationport.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/nginx/elasticbeanstalk-nginx-docker-upstream.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/cfn-hup.conf.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/aws-eb.target  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/containercommandsupport/leader-test.sh  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/containercommandsupport/container-defaults.sh  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/logrotate/logrotate-cron.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/config/private/logrotate/logrotate.template  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/tasks/taillogs.d/eb-engine.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/tasks/bundlelogs.d/cfn-system.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/tasks/bundlelogs.d/eb-system.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/tasks/bundlelogs.d/rotate.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/tasks/bundlelogs.d/eb-hooks.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/tasks/bundlelogs.d/eb-app.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:   inflating: /opt/elasticbeanstalk/tasks/bundlelogs.d/system.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/tasks/bundlelogs.d/cloud-init-system.conf  
+<13>Oct 11 17:16:38 [eb-cfn-init]:  extracting: /opt/elasticbeanstalk/tasks/publishlogs.d/eb-app.conf  
+2023/10/11 17:16:39Z: Amazon SSM Agent v3.0.161.0 is running
+2023/10/11 17:16:39Z: OsProductName: Amazon Linux
+2023/10/11 17:16:39Z: OsVersion: 2
+
+Amazon Linux 2
+Kernel 4.14.214-160.339.amzn2.x86_64 on an x86_64
+
+ip-172-30-0-9 login: [   24.202765] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[   24.212766] Bridge firewalling registered
+[   24.291556] nf_conntrack version 0.5.0 (8192 buckets, 32768 max)
+[   24.516549] Initializing XFRM netlink socket
+[   24.537448] Netfilter messages via NETLINK v0.30.
+[   24.542715] ctnetlink v0.93: registering with nfnetlink.
+[   24.722989] IPv6: ADDRCONF(NETDEV_UP): docker0: link is not ready
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.194Z] Successfully bootstrapped instance.
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.199Z] Sending signal 0 to CFN wait condition https://cloudformation-waitcondition-us-east-1.s3.amazonaws.com/arn%3Aaws%3Acloudformation%3Aus-east-1%3A635526464807%3Astack/awseb-e-tiqihgma7i-stack/8134c920-e721-11ec-bb8d-0e4d072aa857/AWSEBInstanceLaunchWaitHandleLmiGkw?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231011T171551Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIA6L7Q4OWT3JRXU3BZ%2F20231011%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7edcab2110fc8d007ef553a772b4d7f78099f96526e8ba82152cbf820036ddf8
+<13>Oct 11 17:16:44 [eb-cfn-init]: CloudFormation signaled successfully with SUCCESS.
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.595Z] Tailing /var/log/eb-commandprocessor.log
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* eb-commandprocessor taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: ***eb-commandprocessor is not available yet.***
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* End of taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.599Z] Tailing /var/log/eb-activity.log
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* eb-activity taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: ***eb-activity is not available yet.***
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* End of taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.604Z] Tailing /var/log/eb-tools.log
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* eb-tools taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: ***eb-tools is not available yet.***
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* End of taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.606Z] Tailing /var/log/eb-version-deployment.log
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* eb-version-deployment taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: ***eb-version-deployment is not available yet.***
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* End of taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.608Z] Tailing /var/log/cfn-init.log
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* cfn-init taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:35,946 [INFO] -----------------------Starting build-----------------------
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:35,957 [INFO] Running configSets: _OnInstanceBoot
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:35,961 [INFO] Running configSet _OnInstanceBoot
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:35,966 [INFO] Running config AWSEBBaseConfig
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:36,286 [INFO] Command clearbackupfiles succeeded
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:36,292 [INFO] Running config AWSEBCfnHupEndpointOverride
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:36,297 [INFO] Command clearbackupfiles succeeded
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:36,298 [INFO] ConfigSets completed
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:36,298 [INFO] -----------------------Build complete-----------------------
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* End of taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.616Z] Tailing /var/log/cfn-hup.log
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* cfn-hup taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,210 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.us-east-1.amazonaws.com
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,211 [DEBUG] SQS client initialized with endpoint https://sqs.us-east-1.amazonaws.com
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,211 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.us-east-1.amazonaws.com
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,211 [DEBUG] Enabled single threading mode.
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,211 [DEBUG] Creating /var/lib/cfn-hup/data
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,233 [INFO] No umask value specified in config file. Using the default one: 022
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,874 [INFO] Refreshing listener credentials
+<13>Oct 11 17:16:44 [eb-cfn-init]: 2023-10-11 17:16:40,992 [INFO] Scheduling next credential refresh in 1799.50401604 seconds
+<13>Oct 11 17:16:44 [eb-cfn-init]: ******************* End of taillog *******************
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: 
+<13>Oct 11 17:16:44 [eb-cfn-init]: [2023-10-11T17:16:44.619Z] Completed EB Bootstrapping Script.
+<13>Oct 11 17:16:44 [eb-cfn-init]: + RESULT=0
+<13>Oct 11 17:16:44 [eb-cfn-init]: + [[ 0 -ne 0 ]]
+<13>Oct 11 17:16:44 [eb-cfn-init]: + exit 0
+[   39.166045] Adding 524284k swap on /swapfile.  Priority:-2 extents:1 across:524284k SSFS
+[  109.801721] IPv6: ADDRCONF(NETDEV_UP): br-44851f1cf8d9: link is not ready
+[  110.062953] br-44851f1cf8d9: port 1(vethfeac99c) entered blocking state
+[  110.067148] br-44851f1cf8d9: port 1(vethfeac99c) entered disabled state
+[  110.071126] device vethfeac99c entered promiscuous mode
+[  110.074284] IPv6: ADDRCONF(NETDEV_UP): vethfeac99c: link is not ready
+[  110.078118] br-44851f1cf8d9: port 1(vethfeac99c) entered blocking state
+[  110.082049] br-44851f1cf8d9: port 1(vethfeac99c) entered forwarding state
+[  110.085983] br-44851f1cf8d9: port 1(vethfeac99c) entered disabled state
+[  110.268260] cgroup: cgroup: disabling cgroup2 socket matching due to net_prio or net_cls activation
+[  110.756948] eth0: renamed from veth675d024
+[  110.779826] IPv6: ADDRCONF(NETDEV_CHANGE): vethfeac99c: link becomes ready
+[  110.785749] br-44851f1cf8d9: port 1(vethfeac99c) entered blocking state
+[  110.791355] br-44851f1cf8d9: port 1(vethfeac99c) entered forwarding state
+[  110.797230] IPv6: ADDRCONF(NETDEV_CHANGE): br-44851f1cf8d9: link becomes ready
