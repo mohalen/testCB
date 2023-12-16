@@ -1,0 +1,7 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - COMMIT_ID=$(git rev-parse HEAD)
+      - echo "Commit ID: $COMMIT_ID"
