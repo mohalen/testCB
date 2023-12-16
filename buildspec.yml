@@ -5,3 +5,16 @@ phases:
     commands:
       - COMMIT_ID=$(git rev-parse HEAD)
       - echo "Commit ID: $COMMIT_ID"
+
+  build:
+    commands:
+      # Add your build commands here
+
+  post_build:
+    commands:
+      # Add your post-build commands here
+
+artifacts:
+  files: 
+    # Add files to include in the build artifact
+    - '**/*'
