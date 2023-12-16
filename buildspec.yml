@@ -5,6 +5,7 @@ phases:
     commands:
       - COMMIT_ID=$(git rev-parse HEAD)
       - echo Commit ID $COMMIT_ID
+      - git log -n 5
 
   build:
     commands:
