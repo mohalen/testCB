@@ -8,7 +8,7 @@ phases:
 
   build:
     commands:
-      # Add your build commands here
+      # Add your build commands
 
 artifacts:
   files: 
